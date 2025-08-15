@@ -60,5 +60,5 @@ tasabih farid
 # our video link on youtube
 https://youtu.be/qdqPAPnCw7Q?si=QUNWKBnfY7VH7Ua3
 # video 3 questions
-https://youtu.be/ahwqQG5FVNs?si=N-4FXRjQxuDEdxe8
+https://youtu.be/kDZKtcYQp1Q?si=x4U0zZA-7Bd-1C1w
 
