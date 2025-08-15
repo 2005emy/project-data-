@@ -59,4 +59,6 @@ Aya esam
 tasabih farid
 # our video link on youtube
 https://youtu.be/qdqPAPnCw7Q?si=QUNWKBnfY7VH7Ua3
+# video 3 questions
+https://youtu.be/-Hly4KQ0Deo?si=l_Y-JwimdRNxGlwy
 
