@@ -52,3 +52,11 @@ Run load_data.sql to insert sample data.
 Optionally, run queries.sql to test sample queries.
 
 If triggers are used, run triggers.sql
+# our group members
+Eman atef 
+Shahenda ali 
+Aya esam 
+tasabih farid
+# our video link on youtube
+https://youtu.be/qdqPAPnCw7Q?si=QUNWKBnfY7VH7Ua3
+
